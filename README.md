@@ -1,6 +1,6 @@
 # The UNSW-NB15 data set description: 
 
-The raw network packets of the UNSW-NB15 data set is created by the IXIA PerfectStorm tool in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) for generating a hybrid of real modern normal activities and synthetic contemporary attack behaviours. 
+> The raw network packets of the UNSW-NB15 data set is created by the IXIA PerfectStorm tool in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) for generating a hybrid of real modern normal activities and synthetic contemporary attack behaviours. 
 
 Tcpdump tool is utilised to capture 100 GB of the raw traffic (e.g., Pcap files). This data set has nine families  of  attacks,  namely, Fuzzers,  Analysis,  Backdoors,  DoS,  Exploits,  Generic, Reconnaissance, Shellcode and Worms. 
 
